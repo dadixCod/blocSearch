@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:searchapp/blocs/search_bloc/search_bloc.dart';
+import 'package:searchapp/blocs/search_bloc.dart';
 import 'package:searchapp/screens/home_screen.dart';
 
 void main() {

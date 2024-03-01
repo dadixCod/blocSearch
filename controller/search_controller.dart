@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:searchapp/blocs/search_bloc/search_bloc.dart';
-import 'package:searchapp/blocs/search_bloc/search_event.dart';
+import 'package:searchapp/blocs/search_bloc.dart';
+import 'package:searchapp/blocs/search_event.dart';
 import 'package:searchapp/data/data.dart';
 
 class MySearchController {

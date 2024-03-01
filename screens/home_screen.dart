@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:searchapp/blocs/search_bloc/search_bloc.dart';
-import 'package:searchapp/blocs/search_bloc/search_state.dart';
+import 'package:searchapp/blocs/search_bloc.dart';
+import 'package:searchapp/blocs/search_state.dart';
 import 'package:searchapp/widgets/search_app_bar.dart';
 
 class HomeScreen extends StatelessWidget {
